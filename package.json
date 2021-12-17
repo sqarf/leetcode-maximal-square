@@ -1,0 +1,20 @@
+{
+  "name": "leetcode-maximal-square",
+  "version": "1.0.0",
+  "description": "(LeetCode 201, javascript) Given an m x n binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqarf/leetcode-maximal-square.git"
+  },
+  "keywords": [],
+  "author": "Kristaps Kokins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sqarf/leetcode-maximal-square/issues"
+  },
+  "homepage": "https://github.com/sqarf/leetcode-maximal-square#readme"
+}
