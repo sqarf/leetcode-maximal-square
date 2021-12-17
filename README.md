@@ -18,12 +18,12 @@ Given an m x n binary matrix filled with 0's and 1's, find the largest square co
 > &ensp;["0","1"],\
 > &ensp;["1","0"]\
 > ]\
-> Output: 1 \
+> Output: 1
 
 ## Example 3: ##
 
 >Input: matrix = [["0"]]\
->Output: 0\
+>Output: 0
 
 ### Constraints: ###
 
